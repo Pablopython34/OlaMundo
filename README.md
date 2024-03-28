@@ -1,2 +1,2 @@
-# OlaMundo
- Primeira Aula de Git e GitHub
+# Olá, Mundo.
+ Primeira Aula de Git e GitHub.
